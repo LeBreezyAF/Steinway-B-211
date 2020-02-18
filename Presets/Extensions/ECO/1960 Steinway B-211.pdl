@@ -10,7 +10,7 @@ hikey=c#-1
 <group>
 
 <region>
-sample=pedal.wav
+sample=pedal.flac
 volume=-27.000
 cutoff=50
 on_locc64=0
@@ -18,7 +18,7 @@ on_hicc64=0
 trigger=release
 
 <region>
-sample=pedal.wav
+sample=pedal.flac
 volume=-35.000
 cutoff=50
 on_locc64=127

@@ -20,268 +20,268 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-64
 key=0
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-63
 key=1
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-62
 key=2
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-61
 key=3
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-60
 key=4
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-59
 key=5
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-58
 key=6
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-57
 key=7
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-56
 key=8
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-55
 key=9
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-54
 key=10
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-53
 key=11
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-52
 key=12
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-51
 key=13
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-50
 key=14
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-49
 key=15
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-48
 key=16
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-47
 key=17
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-46
 key=18
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-45
 key=19
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-44
 key=20
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-43
 key=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-42
 key=22
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-41
 key=23
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-40
 key=24
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-39
 key=25
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-38
 key=26
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-37
 key=27
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-36
 key=28
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-35
 key=29
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-34
 key=30
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-33
 key=31
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-32
 key=32 
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-31
 key=33
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-30
 key=34
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-29
 key=35
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-28
 key=36
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-27
 key=37
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-26
 key=38
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-25
 key=39
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-24
 key=40
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-23
 key=41
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-22
 key=42
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-21
 key=43
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-20
 key=44
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-19
 key=45
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-18
 key=46
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-17
 key=47
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-16
 key=48
 ampeg_release=0.305
@@ -296,268 +296,268 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-64
 key=0
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-63
 key=1
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-62
 key=2
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-61
 key=3
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-60
 key=4
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-59
 key=5
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-58
 key=6
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-57
 key=7
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-56
 key=8
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-55
 key=9
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-54
 key=10
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-53
 key=11
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-52
 key=12
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-51
 key=13
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-50
 key=14
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-49
 key=15
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-48
 key=16
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-47
 key=17
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-46
 key=18
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-45
 key=19
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-44
 key=20
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-43
 key=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-42
 key=22
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-41
 key=23
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-40
 key=24
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-39
 key=25
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-38
 key=26
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-37
 key=27
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-36
 key=28
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-35
 key=29
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-34
 key=30
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-33
 key=31
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-32
 key=32 
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-31
 key=33
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-30
 key=34
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-29
 key=35
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-28
 key=36
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-27
 key=37
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-26
 key=38
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-25
 key=39
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-24
 key=40
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-23
 key=41
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-22
 key=42
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-21
 key=43
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-20
 key=44
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-19
 key=45
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-18
 key=46
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-17
 key=47
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-16
 key=48
 ampeg_release=0.305
@@ -572,268 +572,268 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-64
 key=0
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-63
 key=1
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-62
 key=2
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-61
 key=3
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-60
 key=4
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-59
 key=5
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-58
 key=6
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-57
 key=7
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-56
 key=8
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-55
 key=9
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-54
 key=10
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-53
 key=11
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-52
 key=12
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-51
 key=13
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-50
 key=14
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-49
 key=15
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-48
 key=16
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-47
 key=17
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-46
 key=18
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-45
 key=19
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-44
 key=20
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-43
 key=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-42
 key=22
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-41
 key=23
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-40
 key=24
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-39
 key=25
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-38
 key=26
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-37
 key=27
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-36
 key=28
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-35
 key=29
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-34
 key=30
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-33
 key=31
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-32
 key=32 
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-31
 key=33
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-30
 key=34
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-29
 key=35
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-28
 key=36
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-27
 key=37
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-26
 key=38
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-25
 key=39
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-24
 key=40
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-23
 key=41
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-22
 key=42
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-21
 key=43
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-20
 key=44
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-19
 key=45
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-18
 key=46
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-17
 key=47
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-16
 key=48
 ampeg_release=0.305
@@ -848,268 +848,268 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-64
 key=0
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-63
 key=1
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-62
 key=2
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-61
 key=3
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-60
 key=4
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-59
 key=5
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-58
 key=6
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-57
 key=7
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-56
 key=8
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-55
 key=9
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-54
 key=10
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-53
 key=11
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-52
 key=12
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-51
 key=13
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-50
 key=14
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-49
 key=15
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-48
 key=16
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-47
 key=17
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-46
 key=18
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-45
 key=19
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-44
 key=20
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-43
 key=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-42
 key=22
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-41
 key=23
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-40
 key=24
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-39
 key=25
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-38
 key=26
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-37
 key=27
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-36
 key=28
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-35
 key=29
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-34
 key=30
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-33
 key=31
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-32
 key=32 
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-31
 key=33
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-30
 key=34
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-29
 key=35
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-28
 key=36
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-27
 key=37
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-26
 key=38
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-25
 key=39
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-24
 key=40
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-23
 key=41
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-22
 key=42
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-21
 key=43
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-20
 key=44
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-19
 key=45
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-18
 key=46
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-17
 key=47
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-16
 key=48
 ampeg_release=0.305
@@ -1124,268 +1124,268 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-64
 key=0
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-63
 key=1
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-62
 key=2
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-61
 key=3
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-60
 key=4
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-59
 key=5
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-58
 key=6
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-57
 key=7
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-56
 key=8
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-55
 key=9
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-54
 key=10
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-53
 key=11
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-52
 key=12
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-51
 key=13
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-50
 key=14
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-49
 key=15
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-48
 key=16
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-47
 key=17
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-46
 key=18
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-45
 key=19
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-44
 key=20
 pitch_keycenter=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-43
 key=21
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-42
 key=22
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-41
 key=23
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-40
 key=24
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-39
 key=25
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-38
 key=26
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-37
 key=27
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-36
 key=28
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-35
 key=29
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-34
 key=30
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-33
 key=31
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-32
 key=32 
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-31
 key=33
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-30
 key=34
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-29
 key=35
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-28
 key=36
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-27
 key=37
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-26
 key=38
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-25
 key=39
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-24
 key=40
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-23
 key=41
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-22
 key=42
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-21
 key=43
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-20
 key=44
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-19
 key=45
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-18
 key=46
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-17
 key=47
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-16
 key=48
 ampeg_release=0.305
@@ -1402,92 +1402,92 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=2
 key=66
 ampeg_release=0.305
@@ -1502,92 +1502,92 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=2
 key=66
 ampeg_release=0.305
@@ -1602,92 +1602,92 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=2
 key=66
 ampeg_release=0.305
@@ -1702,92 +1702,92 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=2
 key=66
 ampeg_release=0.305
@@ -1802,92 +1802,92 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=2
 key=66
 ampeg_release=0.305
@@ -1904,107 +1904,107 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=23
 key=87
 ampeg_release=0.305
@@ -2019,107 +2019,107 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=23
 key=87
 ampeg_release=0.305
@@ -2134,107 +2134,107 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=23
 key=87
 ampeg_release=0.305
@@ -2249,107 +2249,107 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=23
 key=87
 ampeg_release=0.305
@@ -2364,107 +2364,107 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=23
 key=87
 ampeg_release=0.305
@@ -2481,32 +2481,32 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=29
 key=93
 ampeg_release=0.305
@@ -2521,32 +2521,32 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=29
 key=93
 ampeg_release=0.305
@@ -2561,32 +2561,32 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=29
 key=93
 ampeg_release=0.305
@@ -2601,32 +2601,32 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=29
 key=93
 ampeg_release=0.305
@@ -2641,32 +2641,32 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=29
 key=93
 ampeg_release=0.305
@@ -2683,191 +2683,191 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=63
 key=127
 pitch_keycenter=108
@@ -2883,191 +2883,191 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=63
 key=127
 pitch_keycenter=108
@@ -3083,191 +3083,191 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=63
 key=127
 pitch_keycenter=108
@@ -3283,191 +3283,191 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=63
 key=127
 pitch_keycenter=108
@@ -3483,191 +3483,191 @@ cutoff=5
 pitchlfo_freq=2.550
 fillfo_freq=3.162
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=hammer.wav
+<region> sample=hammer.flac
 pan=63
 key=127
 pitch_keycenter=108
